@@ -1,7 +1,7 @@
 # Privacy Policy — Noise check
 
-Last updated: 2024-03-XX  
-Contact: REPLACE_WITH_CONTACT_EMAIL
+Last updated: 2025-12-15  
+Contact: mssffyl@gmail.com
 
 ## Summary
 - Noise check measures environmental sound using your device microphone. We do not run our own servers and do not collect, store, or share your personal data.
